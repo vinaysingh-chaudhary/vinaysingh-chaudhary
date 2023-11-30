@@ -4,7 +4,7 @@
 - Learning End-to-end development to ship full-stack Products and help with my services. 
 
 **‣ Projects**
-1. `MimoBlogs` is a fullstack blog web application built on ReactJS, TailwindCSS, and AppWrite (Backend).   [link ⭧](https://mimoblogs-vinay.vercel.app/)
+1. `MimoBlogs` (yet to be complete) is a fullstack blog web application built on ReactJS, TailwindCSS, and AppWrite (Backend). [link ⭧](https://mimoblogs-vinay.vercel.app/)
 2. `TheatreWalls` provides info on comprehensive movie-related content, built on ReactJS, TailwindCSS, and TMDB API.  [link ⭧](https://theatrewalls-vinay-mi.netlify.app/)
 3. `Lightful-Universe` is a Universe image consuming NASA's POD API, with search-by-date functionality. [link ⭧](https://lightful-universe-vinay.netlify.app/)
 4. `ProductivityBubble` is a one-stop store for developers and contains a wide range of tools.  [link ⭧](https://productivitybubble-vinay-mi.netlify.app/)
