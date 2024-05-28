@@ -1,4 +1,7 @@
-**‣ Hey I'm Vinay Chaudhary`, a full-stack web developer 🕸️**
+**‣ Hey I'm Vinay Chaudhary, a full-stack web developer 🕸️**
+- 📍 Living in Delhi, India
+- Mails at vinayisactive@gmail.com
+- Socials [X/Twitter ↗](https://x.com/vinayisactive) • [Linkedin ↗](https://www.linkedin.com/in/vinaysingh-chaudhary) • [Github ↗](https://github.com/vinaysingh-chaudhary)
 - Building stuff using `React`, `NextJS 🌱`, `Typescript✨🔨`, and `TailwindCSS 🎨`.  
 - Learning End-to-end development to ship full-stack Products and help with my services.
 <br>
@@ -21,7 +24,7 @@
 
 - JavaScript, TypeScript  → I am proficient in JavaScript concepts and skilled in `transitioning web applications to TypeScript for improved type safety`.
 
-- React.js / Next.Js  → I have `extensive experience with ReactJS` and,  am `Now using NextJS for optimized caching, server components, and better performance`.
+- React.js / Next.Js  → I have `extensive experience with ReactJS` and am `Now using NextJS for optimized caching, server components, and better performance`.
 
 - Express.js → I have built a few backend servers `using Express, following industry-standard practices`.
 
